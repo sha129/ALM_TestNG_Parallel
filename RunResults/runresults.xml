@@ -1,0 +1,1367 @@
+<Results>
+    <GeneralInfo>
+        <Name/>
+        <RunStartTime>2017-11-17 16:50:42</RunStartTime>
+        <Timezone>Pacific Standard Time</Timezone>
+        <OrchestrationToolName>JUnit</OrchestrationToolName>
+        <OrchestrationToolVersion/>
+        <ReportTitle>LeanFT Report</ReportTitle>
+    </GeneralInfo>
+    <ReportNode type="Run">
+        <Data>
+            <Name>Run Results</Name>
+            <Description><![CDATA[ ]]></Description>
+            <StartTime>2017-11-17 16:50:42</StartTime>
+            <Result>Passed</Result>
+            <Links/>
+            <Duration>22</Duration>
+            <Extension>
+                <Any>
+                    <IconKey>Run</IconKey>
+                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                </Any>
+            </Extension>
+            <Environment>
+                <OSInfo><![CDATA[Microsoft Windows NT 6.1.7601 Service Pack 1]]></OSInfo>
+                <HostName>D217614</HostName>
+                <NumberOfCores>8</NumberOfCores>
+                <CpuInfo/>
+                <TotalMemory>32651</TotalMemory>
+                <Locale><![CDATA[en-US]]></Locale>
+                <Timezone>Pacific Standard Time</Timezone>
+                <User>lnus</User>
+            </Environment>
+            <TestedApplication/>
+            <ToolName>LeanFT</ToolName>
+            <ToolVersion><![CDATA[14.01]]></ToolVersion>
+        </Data>
+        <ReportNode type="Suite">
+            <Data>
+                <Name>Default suite</Name>
+                <Description/>
+                <StartTime>2017-11-17 16:50:42</StartTime>
+                <Result>Passed</Result>
+                <Links/>
+                <Duration>22</Duration>
+                <Extension>
+                    <Any>
+                        <IconKey>Suite</IconKey>
+                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                    </Any>
+                </Extension>
+            </Data>
+            <ReportNode type="TestContainer">
+                <Data>
+                    <Name>Default test</Name>
+                    <Description/>
+                    <StartTime>2017-11-17 16:50:42</StartTime>
+                    <Result>Passed</Result>
+                    <Links/>
+                    <Duration>22</Duration>
+                    <Extension>
+                        <Any>
+                            <IconKey>TestContainer</IconKey>
+                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                        </Any>
+                    </Extension>
+                </Data>
+                <ReportNode type="Package">
+                    <Data>
+                        <Name><![CDATA[(default package)]]></Name>
+                        <Description><![CDATA[Version: N/A]]></Description>
+                        <StartTime>2017-11-17 16:50:42</StartTime>
+                        <Result>Passed</Result>
+                        <Links/>
+                        <Duration>22</Duration>
+                        <Extension>
+                            <Any>
+                                <IconKey>Package</IconKey>
+                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                            </Any>
+                        </Extension>
+                    </Data>
+                    <ReportNode type="Class">
+                        <Data>
+                            <Name>LeanFtTest</Name>
+                            <Description/>
+                            <StartTime>2017-11-17 16:50:42</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration>22</Duration>
+                            <Extension>
+                                <Any>
+                                    <IconKey>Class</IconKey>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                </Any>
+                            </Extension>
+                        </Data>
+                        <ReportNode type="Test">
+                            <Data>
+                                <Name>parallelDataProviderTest</Name>
+                                <Description/>
+                                <StartTime>2017-11-17 16:50:42</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration>5</Duration>
+                                <Extension>
+                                    <Any>
+                                        <IconKey>Test</IconKey>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                            <ReportNode type="TestCase">
+                                <Data>
+                                    <Name><![CDATA[parallelDataProviderTest[FIREFOX]]]></Name>
+                                    <Description/>
+                                    <StartTime>2017-11-17 16:50:42</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration>0</Duration>
+                                    <Extension>
+                                        <Any>
+                                            <IconKey>TestCase</IconKey>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[Browser.launch]]></Name>
+                                        <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>FIREFOX</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div></p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Mozilla Firefox</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>56.0.2</td></tr></table>]]></Description>
+                                        <StartTime>2017-11-17 16:50:42</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>0</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path/>
+                                                    <Operation>launch</Operation>
+                                                    <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>FIREFOX</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div></p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Mozilla Firefox</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>56.0.2</td></tr></table>]]></OperationData>
+                                                    <Properties/>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>Browser</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                    <FlowTreeNodeCaption><![CDATA[Browser.<span class='emphasis'>launch("Firefox")</span>]]></FlowTreeNodeCaption>
+                                                    <FlowTreeNodeTooltip><![CDATA[Browser.launch("Firefox")]]></FlowTreeNodeTooltip>
+                                                </CustomUIElements>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[Mozilla Firefox Start Page.navigate]]></Name>
+                                        <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>www.sce.com</td></tr></table>]]></Description>
+                                        <StartTime>2017-11-17 16:50:44</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>1</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Mozilla Firefox Start Page]]></Name>
+                                                        </Object>
+                                                    </Path>
+                                                    <Operation>navigate</Operation>
+                                                    <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>www.sce.com</td></tr></table>]]></OperationData>
+                                                    <Properties>
+                                                        <Property>
+                                                            <Name><![CDATA[type]]></Name>
+                                                            <Value><![CDATA[Mozilla Firefox]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[version]]></Name>
+                                                            <Value><![CDATA[56.0.2]]></Value>
+                                                        </Property>
+                                                    </Properties>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>Browser</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                </CustomUIElements>
+                                                <Descriptive>
+                                                    <TestObject>
+                                                        <Path>
+                                                            <Object>
+                                                                <Type>Web.Browser</Type>
+                                                                <Name><![CDATA[Mozilla Firefox Start Page]]></Name>
+                                                                <IconKey>Browser</IconKey>
+                                                            </Object>
+                                                        </Path>
+                                                    </TestObject>
+                                                </Descriptive>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[fullLoginEmail.setValue]]></Name>
+                                        <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>onir2b@gmail.com</td></tr></table>]]></Description>
+                                        <StartTime>2017-11-17 16:50:44</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>3</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[fullLoginEmail]]></Name>
+                                                        </Object>
+                                                    </Path>
+                                                    <Operation>setValue</Operation>
+                                                    <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>onir2b@gmail.com</td></tr></table>]]></OperationData>
+                                                    <Properties>
+                                                        <Property>
+                                                            <Name><![CDATA[type]]></Name>
+                                                            <Value><![CDATA[text]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[name]]></Name>
+                                                            <Value><![CDATA[fullLoginEmail]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[tagName]]></Name>
+                                                            <Value><![CDATA[INPUT]]></Value>
+                                                        </Property>
+                                                    </Properties>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>EditField</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                </CustomUIElements>
+                                                <Descriptive>
+                                                    <TestObject>
+                                                        <Path>
+                                                            <Object>
+                                                                <Type>Web.Browser</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Browser</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Page</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Page</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.EditField</Type>
+                                                                <Name><![CDATA[fullLoginEmail]]></Name>
+                                                                <IconKey>EditField</IconKey>
+                                                            </Object>
+                                                        </Path>
+                                                    </TestObject>
+                                                </Descriptive>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[fullLoginPassword.setSecure]]></Name>
+                                        <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>Edison123</td></tr></table>]]></Description>
+                                        <StartTime>2017-11-17 16:50:46</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>1</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[fullLoginPassword]]></Name>
+                                                        </Object>
+                                                    </Path>
+                                                    <Operation>setSecure</Operation>
+                                                    <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>Edison123</td></tr></table>]]></OperationData>
+                                                    <Properties>
+                                                        <Property>
+                                                            <Name><![CDATA[type]]></Name>
+                                                            <Value><![CDATA[password]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[name]]></Name>
+                                                            <Value><![CDATA[fullLoginPassword]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[tagName]]></Name>
+                                                            <Value><![CDATA[INPUT]]></Value>
+                                                        </Property>
+                                                    </Properties>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>EditField</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                </CustomUIElements>
+                                                <Descriptive>
+                                                    <TestObject>
+                                                        <Path>
+                                                            <Object>
+                                                                <Type>Web.Browser</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Browser</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Page</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Page</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.EditField</Type>
+                                                                <Name><![CDATA[fullLoginPassword]]></Name>
+                                                                <IconKey>EditField</IconKey>
+                                                            </Object>
+                                                        </Path>
+                                                    </TestObject>
+                                                </Descriptive>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[Log In.click]]></Name>
+                                        <Description/>
+                                        <StartTime>2017-11-17 16:50:47</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>1</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Button</Type>
+                                                            <Name><![CDATA[Log In]]></Name>
+                                                        </Object>
+                                                    </Path>
+                                                    <Operation>click</Operation>
+                                                    <OperationData/>
+                                                    <Properties>
+                                                        <Property>
+                                                            <Name><![CDATA[buttonType]]></Name>
+                                                            <Value/>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[role]]></Name>
+                                                            <Value><![CDATA[button]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[accessibilityName]]></Name>
+                                                            <Value><![CDATA[Log In]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[name]]></Name>
+                                                            <Value><![CDATA[●Log In]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[tagName]]></Name>
+                                                            <Value><![CDATA[SPAN]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[index]]></Name>
+                                                            <Value><![CDATA[0]]></Value>
+                                                        </Property>
+                                                    </Properties>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>Button</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                </CustomUIElements>
+                                                <Descriptive>
+                                                    <TestObject>
+                                                        <Path>
+                                                            <Object>
+                                                                <Type>Web.Browser</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Browser</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Page</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Page</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Button</Type>
+                                                                <Name><![CDATA[Log In]]></Name>
+                                                                <IconKey>Button</IconKey>
+                                                            </Object>
+                                                        </Path>
+                                                    </TestObject>
+                                                </Descriptive>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[Sorry, your email and/or password was incorrect. Please try again. Need to make a payment? Pay Now.click]]></Name>
+                                        <Description/>
+                                        <StartTime>2017-11-17 16:50:47</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>1</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.WebElement</Type>
+                                                            <Name><![CDATA[Sorry, your email and/or password was incorrect. Please try again. Need to make a payment? Pay Now]]></Name>
+                                                        </Object>
+                                                    </Path>
+                                                    <Operation>click</Operation>
+                                                    <OperationData/>
+                                                    <Properties>
+                                                        <Property>
+                                                            <Name><![CDATA[className]]></Name>
+                                                            <Value><![CDATA[messageContent]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[tagName]]></Name>
+                                                            <Value><![CDATA[DIV]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[innerText]]></Name>
+                                                            <Value><![CDATA[Sorry, your email and/or password was incorrect. Please try again. Need to make a payment? Pay Now]]></Value>
+                                                        </Property>
+                                                    </Properties>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>WebElement</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                </CustomUIElements>
+                                                <Descriptive>
+                                                    <TestObject>
+                                                        <Path>
+                                                            <Object>
+                                                                <Type>Web.Browser</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Browser</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Page</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Page</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.WebElement</Type>
+                                                                <Name><![CDATA[Sorry, your email and/or password was incorrect. Please try again. Need to make a payment? Pay Now]]></Name>
+                                                                <IconKey>WebElement</IconKey>
+                                                            </Object>
+                                                        </Path>
+                                                    </TestObject>
+                                                </Descriptive>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="CustomStep">
+                                    <Data>
+                                        <Name>Verify URL launch</Name>
+                                        <Description><![CDATA[URL is launched successfully]]></Description>
+                                        <StartTime>2017-11-17 16:50:48</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>0</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <IconKey>CustomStep</IconKey>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <StepCustomImagePath><![CDATA[Resources\User\158193f1-1710-4d20-bced-0c867abfbd36.png]]></StepCustomImagePath>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                            </ReportNode>
+                            <ReportNode type="TestCase">
+                                <Data>
+                                    <Name><![CDATA[parallelDataProviderTest[CHROME]]]></Name>
+                                    <Description/>
+                                    <StartTime>2017-11-17 16:50:42</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration>1</Duration>
+                                    <Extension>
+                                        <Any>
+                                            <IconKey>TestCase</IconKey>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[Browser.launch]]></Name>
+                                        <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div></p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>62.0</td></tr></table>]]></Description>
+                                        <StartTime>2017-11-17 16:50:42</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>0</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path/>
+                                                    <Operation>launch</Operation>
+                                                    <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div></p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>62.0</td></tr></table>]]></OperationData>
+                                                    <Properties/>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>Browser</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                    <FlowTreeNodeCaption><![CDATA[Browser.<span class='emphasis'>launch("Chrome")</span>]]></FlowTreeNodeCaption>
+                                                    <FlowTreeNodeTooltip><![CDATA[Browser.launch("Chrome")]]></FlowTreeNodeTooltip>
+                                                </CustomUIElements>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[Browser.navigate]]></Name>
+                                        <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>www.sce.com</td></tr></table>]]></Description>
+                                        <StartTime>2017-11-17 16:50:43</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>1</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Browser]]></Name>
+                                                        </Object>
+                                                    </Path>
+                                                    <Operation>navigate</Operation>
+                                                    <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>www.sce.com</td></tr></table>]]></OperationData>
+                                                    <Properties>
+                                                        <Property>
+                                                            <Name><![CDATA[type]]></Name>
+                                                            <Value><![CDATA[Chrome]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[version]]></Name>
+                                                            <Value><![CDATA[62.0]]></Value>
+                                                        </Property>
+                                                    </Properties>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>Browser</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                </CustomUIElements>
+                                                <Descriptive>
+                                                    <TestObject>
+                                                        <Path>
+                                                            <Object>
+                                                                <Type>Web.Browser</Type>
+                                                                <Name><![CDATA[Browser]]></Name>
+                                                                <IconKey>Browser</IconKey>
+                                                            </Object>
+                                                        </Path>
+                                                    </TestObject>
+                                                </Descriptive>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[fullLoginEmail.setValue]]></Name>
+                                        <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>onir2b@gmail.com</td></tr></table>]]></Description>
+                                        <StartTime>2017-11-17 16:50:46</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>1</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[fullLoginEmail]]></Name>
+                                                        </Object>
+                                                    </Path>
+                                                    <Operation>setValue</Operation>
+                                                    <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>onir2b@gmail.com</td></tr></table>]]></OperationData>
+                                                    <Properties>
+                                                        <Property>
+                                                            <Name><![CDATA[type]]></Name>
+                                                            <Value><![CDATA[text]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[name]]></Name>
+                                                            <Value><![CDATA[fullLoginEmail]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[tagName]]></Name>
+                                                            <Value><![CDATA[INPUT]]></Value>
+                                                        </Property>
+                                                    </Properties>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>EditField</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                </CustomUIElements>
+                                                <Descriptive>
+                                                    <TestObject>
+                                                        <Path>
+                                                            <Object>
+                                                                <Type>Web.Browser</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Browser</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Page</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Page</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.EditField</Type>
+                                                                <Name><![CDATA[fullLoginEmail]]></Name>
+                                                                <IconKey>EditField</IconKey>
+                                                            </Object>
+                                                        </Path>
+                                                    </TestObject>
+                                                </Descriptive>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[fullLoginPassword.setSecure]]></Name>
+                                        <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>Edison123</td></tr></table>]]></Description>
+                                        <StartTime>2017-11-17 16:50:46</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>1</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[fullLoginPassword]]></Name>
+                                                        </Object>
+                                                    </Path>
+                                                    <Operation>setSecure</Operation>
+                                                    <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>Edison123</td></tr></table>]]></OperationData>
+                                                    <Properties>
+                                                        <Property>
+                                                            <Name><![CDATA[type]]></Name>
+                                                            <Value><![CDATA[password]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[name]]></Name>
+                                                            <Value><![CDATA[fullLoginPassword]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[tagName]]></Name>
+                                                            <Value><![CDATA[INPUT]]></Value>
+                                                        </Property>
+                                                    </Properties>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>EditField</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                </CustomUIElements>
+                                                <Descriptive>
+                                                    <TestObject>
+                                                        <Path>
+                                                            <Object>
+                                                                <Type>Web.Browser</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Browser</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Page</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Page</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.EditField</Type>
+                                                                <Name><![CDATA[fullLoginPassword]]></Name>
+                                                                <IconKey>EditField</IconKey>
+                                                            </Object>
+                                                        </Path>
+                                                    </TestObject>
+                                                </Descriptive>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[Log In.click]]></Name>
+                                        <Description/>
+                                        <StartTime>2017-11-17 16:50:46</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>1</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Button</Type>
+                                                            <Name><![CDATA[Log In]]></Name>
+                                                        </Object>
+                                                    </Path>
+                                                    <Operation>click</Operation>
+                                                    <OperationData/>
+                                                    <Properties>
+                                                        <Property>
+                                                            <Name><![CDATA[buttonType]]></Name>
+                                                            <Value/>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[role]]></Name>
+                                                            <Value><![CDATA[button]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[accessibilityName]]></Name>
+                                                            <Value><![CDATA[Log In]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[name]]></Name>
+                                                            <Value><![CDATA[●Log In]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[tagName]]></Name>
+                                                            <Value><![CDATA[SPAN]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[index]]></Name>
+                                                            <Value><![CDATA[0]]></Value>
+                                                        </Property>
+                                                    </Properties>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>Button</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                </CustomUIElements>
+                                                <Descriptive>
+                                                    <TestObject>
+                                                        <Path>
+                                                            <Object>
+                                                                <Type>Web.Browser</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Browser</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Page</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Page</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Button</Type>
+                                                                <Name><![CDATA[Log In]]></Name>
+                                                                <IconKey>Button</IconKey>
+                                                            </Object>
+                                                        </Path>
+                                                    </TestObject>
+                                                </Descriptive>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[Sorry, your email and/or password was incorrect. Please try again. Need to make a payment? Pay Now.click]]></Name>
+                                        <Description/>
+                                        <StartTime>2017-11-17 16:50:46</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>1</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.WebElement</Type>
+                                                            <Name><![CDATA[Sorry, your email and/or password was incorrect. Please try again. Need to make a payment? Pay Now]]></Name>
+                                                        </Object>
+                                                    </Path>
+                                                    <Operation>click</Operation>
+                                                    <OperationData/>
+                                                    <Properties>
+                                                        <Property>
+                                                            <Name><![CDATA[className]]></Name>
+                                                            <Value><![CDATA[messageContent]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[tagName]]></Name>
+                                                            <Value><![CDATA[DIV]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[innerText]]></Name>
+                                                            <Value><![CDATA[Sorry, your email and/or password was incorrect. Please try again. Need to make a payment? Pay Now]]></Value>
+                                                        </Property>
+                                                    </Properties>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>WebElement</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                </CustomUIElements>
+                                                <Descriptive>
+                                                    <TestObject>
+                                                        <Path>
+                                                            <Object>
+                                                                <Type>Web.Browser</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Browser</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Page</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Page</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.WebElement</Type>
+                                                                <Name><![CDATA[Sorry, your email and/or password was incorrect. Please try again. Need to make a payment? Pay Now]]></Name>
+                                                                <IconKey>WebElement</IconKey>
+                                                            </Object>
+                                                        </Path>
+                                                    </TestObject>
+                                                </Descriptive>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="CustomStep">
+                                    <Data>
+                                        <Name>Verify URL launch</Name>
+                                        <Description><![CDATA[URL is launched successfully]]></Description>
+                                        <StartTime>2017-11-17 16:50:47</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>0</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <IconKey>CustomStep</IconKey>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <StepCustomImagePath><![CDATA[Resources\User\d82cde5f-d2b0-4a69-a2a0-59568a9fa0ed.png]]></StepCustomImagePath>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                            </ReportNode>
+                            <ReportNode type="TestCase">
+                                <Data>
+                                    <Name><![CDATA[parallelDataProviderTest[INTERNET_EXPLORER]]]></Name>
+                                    <Description/>
+                                    <StartTime>2017-11-17 16:50:42</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration>5</Duration>
+                                    <Extension>
+                                        <Any>
+                                            <IconKey>TestCase</IconKey>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[Browser.launch]]></Name>
+                                        <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>INTERNET_EXPLORER</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div></p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>internet explorer</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>10</td></tr></table>]]></Description>
+                                        <StartTime>2017-11-17 16:50:42</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>0</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path/>
+                                                    <Operation>launch</Operation>
+                                                    <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>INTERNET_EXPLORER</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div></p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>internet explorer</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>10</td></tr></table>]]></OperationData>
+                                                    <Properties/>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>Browser</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                    <FlowTreeNodeCaption><![CDATA[Browser.<span class='emphasis'>launch("Internet Explorer")</span>]]></FlowTreeNodeCaption>
+                                                    <FlowTreeNodeTooltip><![CDATA[Browser.launch("Internet Explorer")]]></FlowTreeNodeTooltip>
+                                                </CustomUIElements>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[Edison International Portal.navigate]]></Name>
+                                        <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>www.sce.com</td></tr></table>]]></Description>
+                                        <StartTime>2017-11-17 16:50:47</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>4</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Edison International Portal]]></Name>
+                                                        </Object>
+                                                    </Path>
+                                                    <Operation>navigate</Operation>
+                                                    <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>www.sce.com</td></tr></table>]]></OperationData>
+                                                    <Properties>
+                                                        <Property>
+                                                            <Name><![CDATA[type]]></Name>
+                                                            <Value><![CDATA[internet explorer]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[version]]></Name>
+                                                            <Value><![CDATA[10]]></Value>
+                                                        </Property>
+                                                    </Properties>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>Browser</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                </CustomUIElements>
+                                                <Descriptive>
+                                                    <TestObject>
+                                                        <Path>
+                                                            <Object>
+                                                                <Type>Web.Browser</Type>
+                                                                <Name><![CDATA[Edison International Portal]]></Name>
+                                                                <IconKey>Browser</IconKey>
+                                                            </Object>
+                                                        </Path>
+                                                    </TestObject>
+                                                </Descriptive>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[fullLoginEmail.setValue]]></Name>
+                                        <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>onir2b@gmail.com</td></tr></table>]]></Description>
+                                        <StartTime>2017-11-17 16:50:51</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>12</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[fullLoginEmail]]></Name>
+                                                        </Object>
+                                                    </Path>
+                                                    <Operation>setValue</Operation>
+                                                    <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>onir2b@gmail.com</td></tr></table>]]></OperationData>
+                                                    <Properties>
+                                                        <Property>
+                                                            <Name><![CDATA[type]]></Name>
+                                                            <Value><![CDATA[text]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[name]]></Name>
+                                                            <Value><![CDATA[fullLoginEmail]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[tagName]]></Name>
+                                                            <Value><![CDATA[INPUT]]></Value>
+                                                        </Property>
+                                                    </Properties>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>EditField</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                </CustomUIElements>
+                                                <Descriptive>
+                                                    <TestObject>
+                                                        <Path>
+                                                            <Object>
+                                                                <Type>Web.Browser</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Browser</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Page</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Page</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.EditField</Type>
+                                                                <Name><![CDATA[fullLoginEmail]]></Name>
+                                                                <IconKey>EditField</IconKey>
+                                                            </Object>
+                                                        </Path>
+                                                    </TestObject>
+                                                </Descriptive>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[fullLoginPassword.setSecure]]></Name>
+                                        <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>Edison123</td></tr></table>]]></Description>
+                                        <StartTime>2017-11-17 16:51:02</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>1</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[fullLoginPassword]]></Name>
+                                                        </Object>
+                                                    </Path>
+                                                    <Operation>setSecure</Operation>
+                                                    <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>Edison123</td></tr></table>]]></OperationData>
+                                                    <Properties>
+                                                        <Property>
+                                                            <Name><![CDATA[type]]></Name>
+                                                            <Value><![CDATA[password]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[name]]></Name>
+                                                            <Value><![CDATA[fullLoginPassword]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[tagName]]></Name>
+                                                            <Value><![CDATA[INPUT]]></Value>
+                                                        </Property>
+                                                    </Properties>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>EditField</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                </CustomUIElements>
+                                                <Descriptive>
+                                                    <TestObject>
+                                                        <Path>
+                                                            <Object>
+                                                                <Type>Web.Browser</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Browser</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Page</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Page</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.EditField</Type>
+                                                                <Name><![CDATA[fullLoginPassword]]></Name>
+                                                                <IconKey>EditField</IconKey>
+                                                            </Object>
+                                                        </Path>
+                                                    </TestObject>
+                                                </Descriptive>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[loginSubmitDesktopButton.click]]></Name>
+                                        <Description/>
+                                        <StartTime>2017-11-17 16:51:03</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>1</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Button</Type>
+                                                            <Name><![CDATA[loginSubmitDesktopButton]]></Name>
+                                                        </Object>
+                                                    </Path>
+                                                    <Operation>click</Operation>
+                                                    <OperationData/>
+                                                    <Properties>
+                                                        <Property>
+                                                            <Name><![CDATA[buttonType]]></Name>
+                                                            <Value/>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[role]]></Name>
+                                                            <Value><![CDATA[button]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[accessibilityName]]></Name>
+                                                            <Value><![CDATA[Log In]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[name]]></Name>
+                                                            <Value><![CDATA[●Log In]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[tagName]]></Name>
+                                                            <Value><![CDATA[SPAN]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[index]]></Name>
+                                                            <Value><![CDATA[0]]></Value>
+                                                        </Property>
+                                                    </Properties>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>Button</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                </CustomUIElements>
+                                                <Descriptive>
+                                                    <TestObject>
+                                                        <Path>
+                                                            <Object>
+                                                                <Type>Web.Browser</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Browser</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Page</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Page</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Button</Type>
+                                                                <Name><![CDATA[loginSubmitDesktopButton]]></Name>
+                                                                <IconKey>Button</IconKey>
+                                                            </Object>
+                                                        </Path>
+                                                    </TestObject>
+                                                </Descriptive>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="Step">
+                                    <Data>
+                                        <Name><![CDATA[Sorry, your email and/or password was incorrect. Please try again. Need to make a payment? Pay Now.click]]></Name>
+                                        <Description/>
+                                        <StartTime>2017-11-17 16:51:03</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>1</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.WebElement</Type>
+                                                            <Name><![CDATA[Sorry, your email and/or password was incorrect. Please try again. Need to make a payment? Pay Now]]></Name>
+                                                        </Object>
+                                                    </Path>
+                                                    <Operation>click</Operation>
+                                                    <OperationData/>
+                                                    <Properties>
+                                                        <Property>
+                                                            <Name><![CDATA[className]]></Name>
+                                                            <Value><![CDATA[messageContent]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[tagName]]></Name>
+                                                            <Value><![CDATA[DIV]]></Value>
+                                                        </Property>
+                                                        <Property>
+                                                            <Name><![CDATA[innerText]]></Name>
+                                                            <Value><![CDATA[Sorry, your email and/or password was incorrect. Please try again. Need to make a payment? Pay Now]]></Value>
+                                                        </Property>
+                                                    </Properties>
+                                                </TestObject>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <IconKey>WebElement</IconKey>
+                                                <CustomUIElements>
+                                                    <DescriptionLabel>Data</DescriptionLabel>
+                                                </CustomUIElements>
+                                                <Descriptive>
+                                                    <TestObject>
+                                                        <Path>
+                                                            <Object>
+                                                                <Type>Web.Browser</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Browser</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.Page</Type>
+                                                                <Name><![CDATA[Southern California Edison - SCE]]></Name>
+                                                                <IconKey>Page</IconKey>
+                                                            </Object>
+                                                            <Object>
+                                                                <Type>Web.WebElement</Type>
+                                                                <Name><![CDATA[Sorry, your email and/or password was incorrect. Please try again. Need to make a payment? Pay Now]]></Name>
+                                                                <IconKey>WebElement</IconKey>
+                                                            </Object>
+                                                        </Path>
+                                                    </TestObject>
+                                                </Descriptive>
+                                                <HideContextInfo>true</HideContextInfo>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                                <ReportNode type="CustomStep">
+                                    <Data>
+                                        <Name>Verify URL launch</Name>
+                                        <Description><![CDATA[URL is launched successfully]]></Description>
+                                        <StartTime>2017-11-17 16:51:04</StartTime>
+                                        <Result>Passed</Result>
+                                        <Links/>
+                                        <Duration>0</Duration>
+                                        <Extension>
+                                            <Any>
+                                                <IconKey>CustomStep</IconKey>
+                                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                                                <StepCustomImagePath><![CDATA[Resources\User\59e65608-3466-41d1-82a5-7e1e0eb7ab64.png]]></StepCustomImagePath>
+                                            </Any>
+                                        </Extension>
+                                    </Data>
+                                </ReportNode>
+                            </ReportNode>
+                        </ReportNode>
+                    </ReportNode>
+                </ReportNode>
+            </ReportNode>
+        </ReportNode>
+    </ReportNode>
+</Results>

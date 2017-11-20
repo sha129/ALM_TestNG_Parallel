@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21474" started-at="2017-11-18T00:50:42Z" finished-at="2017-11-18T00:51:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21474" started-at="2017-11-18T00:50:42Z" finished-at="2017-11-18T00:51:04Z">
+      <class name="LeanFtTest">
+        <test-method status="PASS" signature="baseBeforeSuite()[pri:0, instance:LeanFtTest@48eff760]" name="baseBeforeSuite" is-config="true" duration-ms="607" started-at="2017-11-17T16:50:42Z" finished-at="2017-11-17T16:50:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseBeforeSuite -->
+        <test-method status="PASS" signature="baseBeforeClass(org.testng.ITestContext)[pri:0, instance:LeanFtTest@48eff760]" name="baseBeforeClass" is-config="true" duration-ms="56" started-at="2017-11-17T16:50:42Z" finished-at="2017-11-17T16:50:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@378542de]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseBeforeClass -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:LeanFtTest@48eff760]" name="beforeClass" is-config="true" duration-ms="0" started-at="2017-11-17T16:50:42Z" finished-at="2017-11-17T16:50:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="baseBeforeMethod([Ljava.lang.Object;, org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:LeanFtTest@48eff760]" name="baseBeforeMethod" is-config="true" duration-ms="0" started-at="2017-11-17T16:50:42Z" finished-at="2017-11-17T16:50:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@69e1dd28]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@378542de]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void LeanFtTest.parallelDataProviderTest(com.hp.lft.sdk.web.BrowserType) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseBeforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:LeanFtTest@48eff760]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-11-17T16:50:42Z" finished-at="2017-11-17T16:50:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:LeanFtTest@48eff760]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-11-17T16:50:42Z" finished-at="2017-11-17T16:50:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="baseBeforeMethod([Ljava.lang.Object;, org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:LeanFtTest@48eff760]" name="baseBeforeMethod" is-config="true" duration-ms="0" started-at="2017-11-17T16:50:42Z" finished-at="2017-11-17T16:50:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3738449f]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@378542de]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void LeanFtTest.parallelDataProviderTest(com.hp.lft.sdk.web.BrowserType) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseBeforeMethod -->
+        <test-method status="PASS" signature="parallelDataProviderTest(com.hp.lft.sdk.web.BrowserType)[pri:0, instance:LeanFtTest@48eff760]" name="parallelDataProviderTest" duration-ms="6021" started-at="2017-11-17T16:50:42Z" data-provider="BrowserTypes" finished-at="2017-11-17T16:50:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parallelDataProviderTest -->
+        <test-method status="PASS" signature="baseBeforeMethod([Ljava.lang.Object;, org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:LeanFtTest@48eff760]" name="baseBeforeMethod" is-config="true" duration-ms="0" started-at="2017-11-17T16:50:42Z" finished-at="2017-11-17T16:50:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@11bd0f3b]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@378542de]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void LeanFtTest.parallelDataProviderTest(com.hp.lft.sdk.web.BrowserType) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseBeforeMethod -->
+        <test-method status="PASS" signature="parallelDataProviderTest(com.hp.lft.sdk.web.BrowserType)[pri:0, instance:LeanFtTest@48eff760]" name="parallelDataProviderTest" duration-ms="21406" started-at="2017-11-17T16:50:42Z" data-provider="BrowserTypes" finished-at="2017-11-17T16:51:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[INTERNET_EXPLORER]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parallelDataProviderTest -->
+        <test-method status="PASS" signature="parallelDataProviderTest(com.hp.lft.sdk.web.BrowserType)[pri:0, instance:LeanFtTest@48eff760]" name="parallelDataProviderTest" duration-ms="4692" started-at="2017-11-17T16:50:42Z" data-provider="BrowserTypes" finished-at="2017-11-17T16:50:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parallelDataProviderTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:LeanFtTest@48eff760]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-11-17T16:50:42Z" finished-at="2017-11-17T16:50:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:LeanFtTest@48eff760]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-17T16:50:47Z" finished-at="2017-11-17T16:50:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="baseAfterMethod(org.testng.ITestResult)[pri:0, instance:LeanFtTest@48eff760]" name="baseAfterMethod" is-config="true" duration-ms="0" started-at="2017-11-17T16:50:47Z" finished-at="2017-11-17T16:50:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=parallelDataProviderTest status=SUCCESS method=LeanFtTest.parallelDataProviderTest(com.hp.lft.sdk.web.BrowserType)[pri:0, instance:LeanFtTest@48eff760] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseAfterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:LeanFtTest@48eff760]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-11-17T16:50:48Z" finished-at="2017-11-17T16:50:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="baseAfterMethod(org.testng.ITestResult)[pri:0, instance:LeanFtTest@48eff760]" name="baseAfterMethod" is-config="true" duration-ms="0" started-at="2017-11-17T16:50:48Z" finished-at="2017-11-17T16:50:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=parallelDataProviderTest status=SUCCESS method=LeanFtTest.parallelDataProviderTest(com.hp.lft.sdk.web.BrowserType)[pri:0, instance:LeanFtTest@48eff760] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseAfterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:LeanFtTest@48eff760]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-11-17T16:51:04Z" finished-at="2017-11-17T16:51:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="baseAfterClass(org.testng.ITestContext)[pri:0, instance:LeanFtTest@48eff760]" name="baseAfterClass" is-config="true" duration-ms="0" started-at="2017-11-17T16:51:04Z" finished-at="2017-11-17T16:51:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@378542de]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseAfterClass -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:LeanFtTest@48eff760]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-11-17T16:51:04Z" finished-at="2017-11-17T16:51:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="baseAfterMethod(org.testng.ITestResult)[pri:0, instance:LeanFtTest@48eff760]" name="baseAfterMethod" is-config="true" duration-ms="0" started-at="2017-11-17T16:51:04Z" finished-at="2017-11-17T16:51:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=parallelDataProviderTest status=SUCCESS method=LeanFtTest.parallelDataProviderTest(com.hp.lft.sdk.web.BrowserType)[pri:0, instance:LeanFtTest@48eff760] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseAfterMethod -->
+        <test-method status="PASS" signature="baseAfterSuite()[pri:0, instance:LeanFtTest@48eff760]" name="baseAfterSuite" is-config="true" duration-ms="774" started-at="2017-11-17T16:51:04Z" finished-at="2017-11-17T16:51:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseAfterSuite -->
+      </class> <!-- LeanFtTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
